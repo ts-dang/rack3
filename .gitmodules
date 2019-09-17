@@ -1,0 +1,4 @@
+[submodule "rack"]
+	path = rack
+	url = https://github.com/ts-dang/rack.git
+	branch = develop
